@@ -11,3 +11,8 @@ discord: https://discord.gg/z4BpsRtstP
 # Does Fluxgate have any other projects?
 
 Fluxgate currently does not have any other projects but we... or "I" create websites for people for only 5 bucks. Do to how shitty the website can get. More things Fluxgate will have is more cheats for other games like fortnite and stuff like call of duty.
+
+
+# Feeling sketched?
+
+Dont worry this is reasons why repositories are Open-Sourced I tried explaining everything as possibly as I can in the repository incase you dont know how to code.
