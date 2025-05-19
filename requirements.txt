@@ -1,0 +1,5 @@
+mss
+pillow
+requests
+dearpygui
+pywin32
