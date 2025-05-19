@@ -1,5 +1,0 @@
-# config.txt
-target_color=255,0,0
-tolerance=30
-offsetX=10
-offsetY=-5
