@@ -1,5 +1,3 @@
-mss
-pillow
-requests
-dearpygui
-pywin32
+pyautogui
+numpy
+opencv-python
