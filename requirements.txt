@@ -1,6 +1,0 @@
-dearpygui 
-mss
-numpy
-Pillow
-opencv-python
-pywin32
